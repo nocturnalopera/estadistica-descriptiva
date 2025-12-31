@@ -1,4 +1,4 @@
-En el repositorio de estadística descriptiva se encuentran las funciones de estadística programadas para usarse en un jupyter notebook. Las funciones programadas
+En el repositorio de estadística descriptiva se encuentran las funciones de estadística vistas en Introducción a la ciencia de datos programadas para usarse en un jupyter notebook. Las funciones programadas
 y vistas en clases son:
 - Promedio
 - Mediana
