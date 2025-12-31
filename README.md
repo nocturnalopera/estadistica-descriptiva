@@ -9,3 +9,4 @@ y vistas en clases son:
 - Desviación mediana absoluta
 - Rango intercuartílico
 - Percentiles
+Para ver las funciones, dirigirse a estadistica_descriptiva.ipynb
