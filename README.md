@@ -1,5 +1,5 @@
-En el repositorio de estadística descriptiva se encuentran las funciones de estadística vistas en el ramo de **Introducción a la ciencia de datos** programadas para usarse en un jupyter notebook. Las funciones programadas
-y vistas en clases son:
+En este repositorio de estadística descriptiva, hay funciones vistas en el ramo de **Introducción a la Ciencia de Datos** de la carrera de *Astrofísica con mención en ciencia de datos*, programadas en un archivo de jupyter notebook, las cuales serán utilizadas en la tarea N°2 de este ramo. Las funciones programadas son:
+
 - Promedio
 - Mediana
 - Moda
@@ -10,4 +10,5 @@ y vistas en clases son:
 - Rango intercuartílico
 - Percentiles
 
-Para ver las funciones, dirigirse a [estadistica_descriptiva](estadistica_descriptiva.ipynb)
+Para ver las funciones y sus respectivos códigos, dirigirse a [estadistica_descriptiva](estadistica_descriptiva.ipynb). :-)
+
